@@ -4,3 +4,5 @@ welcome!!
 =======
 dont cause trouble..
 >>>>>>> very-bad
+Hi this is readme
+
