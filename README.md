@@ -1,3 +1,6 @@
 this is my readme file
 welcome!!
-CAUSING TROUBLE
+<<<<<<< HEAD
+=======
+dont cause trouble..
+>>>>>>> very-bad
